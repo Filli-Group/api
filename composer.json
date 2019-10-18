@@ -1,6 +1,6 @@
 {
-  "name": "filli-group/template-api",
-  "description": "Template API Based on the Slim 3 Framework",
+  "name": "filli-group/api",
+  "description": "Filli Group API Based on the Slim 3 Framework",
   "license": "MIT",
   "type": "project",
   "authors": [
